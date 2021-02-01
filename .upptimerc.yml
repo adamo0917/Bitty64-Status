@@ -4,19 +4,8 @@ repo: Bitty64-Status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Googl
-    url: https://www.google.co.uk
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Status Page
+    url: https://adamondre.github.io/Bitty64-Status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
