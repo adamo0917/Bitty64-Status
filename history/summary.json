@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/adamondre.github.io",
     "slug": "status-page",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.62%",
+    "uptimeDay": "6.86%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "99.62%",
     "time": 107,
-    "timeDay": 61,
-    "timeWeek": 54,
-    "timeMonth": 63,
+    "timeDay": 105,
+    "timeWeek": 66,
+    "timeMonth": 64,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-10-05": 0,
+      "2021-10-06": 35,
+      "2021-10-05": 1306,
       "2021-06-08": 19
     }
   }
