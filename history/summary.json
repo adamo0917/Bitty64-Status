@@ -4,18 +4,19 @@
     "url": "https://adamondre.github.io/Bitty64-Status",
     "icon": "https://favicons.githubusercontent.com/adamondre.github.io",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 121,
-    "timeDay": 66,
-    "timeWeek": 114,
-    "timeMonth": 129,
+    "timeDay": 54,
+    "timeWeek": 105,
+    "timeMonth": 127,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2021-10-06": 132,
       "2021-10-05": 1306
     }
