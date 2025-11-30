@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adamondre.github.io.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "28.32%",
+    "uptime": "28.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 88,
-    "timeDay": 39,
-    "timeWeek": 98,
-    "timeMonth": 96,
+    "time": 89,
+    "timeDay": 251,
+    "timeWeek": 115,
+    "timeMonth": 101,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-11-29": 66,
+      "2025-11-30": 76,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -379,8 +380,7 @@
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
-      "2024-12-01": 1440,
-      "2024-11-30": 1440
+      "2024-12-01": 1440
     }
   }
 ]
